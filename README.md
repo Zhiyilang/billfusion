@@ -78,3 +78,17 @@ python main.py *.csv --html 报告.html
 你的支持是我持续维护开源、做更多实用工具的动力。
 
 MIT 开源协议，可自由商用、修改、分发。
+
+<!-- cross-links -->
+
+## 🔗 More zero-dependency tools
+
+All of these are single-file, pure Python-stdlib CLIs — offline, no `pip install`, cross-platform:
+
+- **lanshare** — LAN file transfer · <https://github.com/Zhiyilang/lanshare>
+- **dupescan** — Duplicate file finder · <https://github.com/Zhiyilang/dupescan>
+- **csvdiff** — CSV / JSON diff · <https://github.com/Zhiyilang/csvdiff>
+- **md2html** — Markdown to HTML · <https://github.com/Zhiyilang/md2html>
+- **dirsize** — Directory size analyzer · <https://github.com/Zhiyilang/dirsize>
+
+Full portfolio & docs: <https://zhiyilang.github.io/>
