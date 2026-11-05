@@ -80,7 +80,7 @@ python main.py *.csv --html 报告.html
 
 ## 💝 赞助 / 支持
 
-如果这个工具帮到了你，欢迎到 [爱发电](https://afdian.com/a/Zhiyilang) 请我喝杯咖啡 ☕
+如果这个工具帮到了你，欢迎到 [爱发电](https://afdian.com/a/Zhiyilang074811) 请我喝杯咖啡 ☕
 你的支持是我持续维护开源、做更多实用工具的动力。
 
 MIT 开源协议，可自由商用、修改、分发。
