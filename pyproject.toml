@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "main"
+version = "1.0.0"
+description = "Zero-dependency main command-line tool (pure Python standard library)."
+readme = "README.md"
+requires-python = ">=3.7"
+license = {text = "MIT"}
+keywords = ["cli", "command-line", "utility", "python", "zero-dependency", "standalone"]
+authors = [{"name": "Zhiyilang"}]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Environment :: Console",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/Zhiyilang/billfusion"
+Repository = "https://github.com/Zhiyilang/billfusion"
+Funding = "https://afdian.com/a/Zhiyilang"
+
+[tool.setuptools]
+py-modules = ["main"]
