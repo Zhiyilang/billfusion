@@ -1,3 +1,4 @@
-# GitHub Sponsors 对中国大陆个人不可用，统一使用官方支持的 custom: 键。
-# 链接指向真实上线的接单报价页（无需注册任何平台即可询价）。
-custom: ["https://zhiyilang.github.io/#order"]
+# 赞助 / Sponsor
+# 爱发电是大陆可用的 GitHub 赞助闭环
+custom:
+  - "https://afdian.com/a/Zhiyilang"
