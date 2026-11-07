@@ -2,7 +2,7 @@
 
 <!-- ORDER-CTA -->
 > **需要定制或代做？** 我承接 Excel 代做（¥50 起）/ 零依赖 Python 脚本定制（¥200 起）/ 影刀·UiBot 机器人（¥500 起）。
-> **先报价后付款、无预付款**，微信 / 支付宝结算，询价发 **2383844705@qq.com**（标题写「接单 + 需求类型」）。
+> **先报价后付款、无预付款**，微信 / 支付宝结算，询价发 **someonelikebaku@163.com**（标题写「接单 + 需求类型」）。
 > 更多工具与报价见作品集：https://zhiyilang.github.io/
 
 
@@ -98,3 +98,7 @@ All of these are single-file, pure Python-stdlib CLIs — offline, no `pip insta
 - **dirsize** — Directory size analyzer · <https://github.com/Zhiyilang/dirsize>
 
 Full portfolio & docs: <https://zhiyilang.github.io/>
+
+---
+> 💼 **需要定制 / 接单？** 发邮件 **someonelikebaku@163.com**（标题写「接单 + 需求类型」，工作日 24h 内由自动巡检接住回信）。
+> 接单门面（明码标价 + 付款码 + 22 件成品货架）：https://mcd-persona-card.app.workbuddy.host/ ｜ 作品集与开源工具：https://zhiyilang.github.io/
